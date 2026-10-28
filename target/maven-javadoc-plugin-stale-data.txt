@@ -1,0 +1,81 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-classpath
+'C:/Users/juanm/.m2/repository/jakarta/platform/jakarta.jakartaee-api/10.0.0/jakarta.jakartaee-api-10.0.0.jar;C:/Users/juanm/.m2/repository/jakarta/platform/jakarta.jakartaee-web-api/10.0.0/jakarta.jakartaee-web-api-10.0.0.jar;C:/Users/juanm/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/3.1.0/jakarta.servlet.jsp-api-3.1.0.jar;C:/Users/juanm/.m2/repository/jakarta/faces/jakarta.faces-api/4.0.1/jakarta.faces-api-4.0.1.jar;C:/Users/juanm/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/3.1.0/jakarta.ws.rs-api-3.1.0.jar;C:/Users/juanm/.m2/repository/jakarta/websocket/jakarta.websocket-api/2.1.0/jakarta.websocket-api-2.1.0.jar;C:/Users/juanm/.m2/repository/jakarta/websocket/jakarta.websocket-client-api/2.1.0/jakarta.websocket-client-api-2.1.0.jar;C:/Users/juanm/.m2/repository/jakarta/json/jakarta.json-api/2.1.0/jakarta.json-api-2.1.0.jar;C:/Users/juanm/.m2/repository/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.jar;C:/Users/juanm/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar;C:/Users/juanm/.m2/repository/jakarta/ejb/jakarta.ejb-api/4.0.1/jakarta.ejb-api-4.0.1.jar;C:/Users/juanm/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar;C:/Users/juanm/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar;C:/Users/juanm/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar;C:/Users/juanm/.m2/repository/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.jar;C:/Users/juanm/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.jar;C:/Users/juanm/.m2/repository/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.jar;C:/Users/juanm/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar;C:/Users/juanm/.m2/repository/jakarta/authentication/jakarta.authentication-api/3.0.0/jakarta.authentication-api-3.0.0.jar;C:/Users/juanm/.m2/repository/jakarta/security/enterprise/jakarta.security.enterprise-api/3.0.0/jakarta.security.enterprise-api-3.0.0.jar;C:/Users/juanm/.m2/repository/jakarta/jms/jakarta.jms-api/3.1.0/jakarta.jms-api-3.1.0.jar;C:/Users/juanm/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar;C:/Users/juanm/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.0/jakarta.mail-api-2.1.0.jar;C:/Users/juanm/.m2/repository/jakarta/resource/jakarta.resource-api/2.1.0/jakarta.resource-api-2.1.0.jar;C:/Users/juanm/.m2/repository/jakarta/authorization/jakarta.authorization-api/2.1.0/jakarta.authorization-api-2.1.0.jar;C:/Users/juanm/.m2/repository/jakarta/batch/jakarta.batch-api/2.1.1/jakarta.batch-api-2.1.1.jar;C:/Users/juanm/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar;C:/Users/juanm/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar;C:/Users/juanm/.m2/repository/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0.jar;C:/Users/juanm/.m2/repository/org/mariadb/jdbc/mariadb-java-client/3.5.3/mariadb-java-client-3.5.3.jar;C:/Users/juanm/.m2/repository/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.1/jakarta.servlet.jsp.jstl-3.0.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/juanm/OneDrive/Documentos/NetBeansProjects/nominasWeb/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/juanm/OneDrive/Documentos/NetBeansProjects/nominasWeb/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'nominasWeb-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/juanm/OneDrive/Documentos/NetBeansProjects/nominasWeb/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'nominasWeb-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+com.mycompany.nominasweb
+com.mycompany.nominasweb.resources
+controller
+dao
+modelo
+C:\Users\juanm\.m2\repository\jakarta\platform\jakarta.jakartaee-api\10.0.0\jakarta.jakartaee-api-10.0.0.jar = 1791716473000
+C:\Users\juanm\.m2\repository\jakarta\platform\jakarta.jakartaee-web-api\10.0.0\jakarta.jakartaee-web-api-10.0.0.jar = 1791716474401
+C:\Users\juanm\.m2\repository\jakarta\servlet\jsp\jakarta.servlet.jsp-api\3.1.0\jakarta.servlet.jsp-api-3.1.0.jar = 1791716473301
+C:\Users\juanm\.m2\repository\jakarta\faces\jakarta.faces-api\4.0.1\jakarta.faces-api-4.0.1.jar = 1791716473791
+C:\Users\juanm\.m2\repository\jakarta\ws\rs\jakarta.ws.rs-api\3.1.0\jakarta.ws.rs-api-3.1.0.jar = 1791716473719
+C:\Users\juanm\.m2\repository\jakarta\websocket\jakarta.websocket-api\2.1.0\jakarta.websocket-api-2.1.0.jar = 1791716473786
+C:\Users\juanm\.m2\repository\jakarta\websocket\jakarta.websocket-client-api\2.1.0\jakarta.websocket-client-api-2.1.0.jar = 1791716474591
+C:\Users\juanm\.m2\repository\jakarta\json\jakarta.json-api\2.1.0\jakarta.json-api-2.1.0.jar = 1791716474571
+C:\Users\juanm\.m2\repository\jakarta\json\bind\jakarta.json.bind-api\3.0.0\jakarta.json.bind-api-3.0.0.jar = 1791716474386
+C:\Users\juanm\.m2\repository\jakarta\annotation\jakarta.annotation-api\2.1.1\jakarta.annotation-api-2.1.1.jar = 1791716474233
+C:\Users\juanm\.m2\repository\jakarta\ejb\jakarta.ejb-api\4.0.1\jakarta.ejb-api-4.0.1.jar = 1791716474379
+C:\Users\juanm\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar = 1791716474960
+C:\Users\juanm\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.1.0\jakarta.persistence-api-3.1.0.jar = 1791716474560
+C:\Users\juanm\.m2\repository\jakarta\validation\jakarta.validation-api\3.0.2\jakarta.validation-api-3.0.2.jar = 1791716474560
+C:\Users\juanm\.m2\repository\jakarta\interceptor\jakarta.interceptor-api\2.1.0\jakarta.interceptor-api-2.1.0.jar = 1791716474907
+C:\Users\juanm\.m2\repository\jakarta\enterprise\jakarta.enterprise.cdi-api\4.0.1\jakarta.enterprise.cdi-api-4.0.1.jar = 1791716474722
+C:\Users\juanm\.m2\repository\jakarta\enterprise\jakarta.enterprise.lang-model\4.0.1\jakarta.enterprise.lang-model-4.0.1.jar = 1791716475078
+C:\Users\juanm\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar = 1791716474857
+C:\Users\juanm\.m2\repository\jakarta\authentication\jakarta.authentication-api\3.0.0\jakarta.authentication-api-3.0.0.jar = 1791716475558
+C:\Users\juanm\.m2\repository\jakarta\security\enterprise\jakarta.security.enterprise-api\3.0.0\jakarta.security.enterprise-api-3.0.0.jar = 1791716474963
+C:\Users\juanm\.m2\repository\jakarta\jms\jakarta.jms-api\3.1.0\jakarta.jms-api-3.1.0.jar = 1791716475004
+C:\Users\juanm\.m2\repository\jakarta\activation\jakarta.activation-api\2.1.0\jakarta.activation-api-2.1.0.jar = 1791716475194
+C:\Users\juanm\.m2\repository\jakarta\mail\jakarta.mail-api\2.1.0\jakarta.mail-api-2.1.0.jar = 1791716475305
+C:\Users\juanm\.m2\repository\jakarta\resource\jakarta.resource-api\2.1.0\jakarta.resource-api-2.1.0.jar = 1791716475183
+C:\Users\juanm\.m2\repository\jakarta\authorization\jakarta.authorization-api\2.1.0\jakarta.authorization-api-2.1.0.jar = 1791716475773
+C:\Users\juanm\.m2\repository\jakarta\batch\jakarta.batch-api\2.1.1\jakarta.batch-api-2.1.1.jar = 1791716476342
+C:\Users\juanm\.m2\repository\jakarta\servlet\jsp\jstl\jakarta.servlet.jsp.jstl-api\3.0.0\jakarta.servlet.jsp.jstl-api-3.0.0.jar = 1791716473814
+C:\Users\juanm\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar = 1791716473275
+C:\Users\juanm\.m2\repository\jakarta\el\jakarta.el-api\5.0.0\jakarta.el-api-5.0.0.jar = 1791789328953
+C:\Users\juanm\.m2\repository\org\mariadb\jdbc\mariadb-java-client\3.5.3\mariadb-java-client-3.5.3.jar = 1791788327519
+C:\Users\juanm\.m2\repository\org\glassfish\web\jakarta.servlet.jsp.jstl\3.0.1\jakarta.servlet.jsp.jstl-3.0.1.jar = 1791789328883
+C:\Users\juanm\OneDrive\Documentos\NetBeansProjects\nominasWeb\src\main\java = 1792573858961
+C:\Users\juanm\OneDrive\Documentos\NetBeansProjects\nominasWeb\target\reports\apidocs\allclasses-index.html = 1793186607333
+C:\Users\juanm\OneDrive\Documentos\NetBeansProjects\nominasWeb\target\reports\apidocs\allpackages-index.html = 1793186607336
+C:\Users\juanm\OneDrive\Documentos\NetBeansProjects\nominasWeb\target\reports\apidocs\element-list = 1793186607201
+C:\Users\juanm\OneDrive\Documentos\NetBeansProjects\nominasWeb\target\reports\apidocs\help-doc.html = 1793186607374
+C:\Users\juanm\OneDrive\Documentos\NetBeansProjects\nominasWeb\target\reports\apidocs\index-all.html = 1793186607362
+C:\Users\juanm\OneDrive\Documentos\NetBeansProjects\nominasWeb\target\reports\apidocs\index.html = 1793186607308
+C:\Users\juanm\OneDrive\Documentos\NetBeansProjects\nominasWeb\target\reports\apidocs\member-search-index.js = 1793186607343
+C:\Users\juanm\OneDrive\Documentos\NetBeansProjects\nominasWeb\target\reports\apidocs\module-search-index.js = 1793186607338
+C:\Users\juanm\OneDrive\Documentos\NetBeansProjects\nominasWeb\target\reports\apidocs\overview-summary.html = 1793186607368
+C:\Users\juanm\OneDrive\Documentos\NetBeansProjects\nominasWeb\target\reports\apidocs\overview-tree.html = 1793186607305
+C:\Users\juanm\OneDrive\Documentos\NetBeansProjects\nominasWeb\target\reports\apidocs\package-search-index.js = 1793186607340
+C:\Users\juanm\OneDrive\Documentos\NetBeansProjects\nominasWeb\target\reports\apidocs\search.html = 1793186607365
+C:\Users\juanm\OneDrive\Documentos\NetBeansProjects\nominasWeb\target\reports\apidocs\serialized-form.html = 1793186607249
+C:\Users\juanm\OneDrive\Documentos\NetBeansProjects\nominasWeb\target\reports\apidocs\tag-search-index.js = 1793186607345
+C:\Users\juanm\OneDrive\Documentos\NetBeansProjects\nominasWeb\target\reports\apidocs\type-search-index.js = 1793186607341
