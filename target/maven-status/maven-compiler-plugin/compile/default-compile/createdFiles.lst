@@ -1,0 +1,10 @@
+controller\Controller.class
+com\mycompany\nominasweb\JakartaRestConfiguration.class
+com\mycompany\nominasweb\resources\JakartaEE10Resource.class
+dao\Conexion.class
+modelo\Persona.class
+modelo\Nomina.class
+dao\NominasDAO.class
+dao\EmpleadoDAO.class
+controller\DatosNoCorrectosException.class
+modelo\Empleado.class
