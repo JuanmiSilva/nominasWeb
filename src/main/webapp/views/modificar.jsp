@@ -30,5 +30,8 @@
 
             <button type="submit">Filtrar Empleados</button>
         </form>
+        <a href="${pageContext.request.contextPath}/index.html">
+            <button type="button">Volver al menú</button>
+        </a>
     </body>
 </html>
